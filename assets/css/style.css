@@ -498,6 +498,14 @@ section .container {
   font-weight: 700;
   font-family: "Poppins", sans-serif;
 }
+.nav-menu a {
+  display: block;
+  position: relative;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
 .custom-navmenu {
   background: rgba(0, 0, 0, 0.9);
 }
@@ -519,7 +527,7 @@ section .container {
 }
 
 .custom-navmenu .custom-menu li a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .custom-navmenu .custom-menu li.active a {
