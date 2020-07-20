@@ -1,7 +1,7 @@
 <?php
-$nombre = $_POST['nombre'];
+$nombre = $_POST['name'];
 $mail = $_POST['email'];
-$empresa = $_POST['mensaje'];
+$empresa = $_POST['message'];
 
 $header = 'From: ' . $mail . " \r\n";
 $header .= "X-Mailer: PHP/" . phpversion() . " \r\n";
@@ -10,7 +10,7 @@ $header .= "Content-Type: text/plain";
 
 $mensaje = "Este mensaje fue enviado por " . $nombre . ",\r\n";
 $mensaje .= "Su e-mail es: " . $mail . " \r\n";
-$mensaje .= "Mensaje: " . $_POST['mensaje'] . " \r\n";
+$mensaje .= "Mensaje: " . $_POST['message'] . " \r\n";
 $mensaje .= "Enviado el " . date('d/m/Y', time());
 
 $para = 'cristianfergmz@gmail.com';
