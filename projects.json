@@ -1,0 +1,62 @@
+
+
+  [
+    {
+    "name": "Allied Global",
+    "category": "Website",
+    "technologies": "HTML, CSS, Javascript, Bootstrap, Jquery, PHP",
+    "project_url": "https://alliedglobal.com/",
+    "description": "Allied Global website proporciona información varia, solicitud de servicios, contacto y búsqueda de empleos.",
+    "repositorie_url": "",
+    "image_url": "allied.png",
+    "images": ""
+    },
+    {
+        "name": "Telefónica",
+        "category": "Website",
+        "technologies": "Wordpress, HTML, CSS, Javascript, Jquery, PHP",
+        "project_url": "http://18.222.223.149/",
+        "description": "Telefónica website proporciona información varia, solicitud de servicios y demás.",
+        "repositorie_url": "",
+        "image_url": "telefonica.png"
+        },
+        {
+            "name": "Barrio apartamentos",
+            "category": "Website",
+            "technologies": "HTML, CSS, Javascript, Bootstrap, Jquery, PHP",
+            "project_url": "http://barrioapartamentos.com/",
+            "description": "Barrio apartamentos son sitios web que le permiten poder cotizar apartamentos de una manera muy sencilla",
+            "repositorie_url": "",
+            "image_url": "barrio-apartaments.png"
+            },
+            {
+                "name": "Museo Miraflores",
+                "category": "Website",
+                "technologies": "HTML, CSS, Javascript, Bootstrap, Jquery, PHP",
+                "project_url": "https://www.museomiraflores.org.gt/",
+                "description": "Museo miraflores website proporciona información que puede ser necesaria para la visita física al museo.",
+                "repositorie_url": "",
+                "image_url": "museo-miraflores.png"
+                },
+                {
+                    "name": "Grupo GET",
+                    "category": "Website",
+                    "technologies": "HTML, CSS, Javascript, Bootstrap, Jquery",
+                    "project_url": "http://www.getlatam.com/",
+                    "description": "Grupo get website es una sitio web estatico con información varia, contacto, etc.",
+                    "repositorie_url": "",
+                    "image_url": "grupo-get.png"
+                    },
+                    {
+                        "name": "Quickbox USA",
+                        "category": "Website",
+                        "technologies": "HTML, CSS, Javascript, Bootstrap, Jquery",
+                        "project_url": "https://www.quickboxusa.com.gt/",
+                        "description": "Grupo get website es una sitio web estatico que proporciona información del servicio de compra de productos desde los Estados unidos hacia Guatemala.",
+                        "repositorie_url": "",
+                        "image_url": "quickbox.png"
+                        }
+]
+
+
+
